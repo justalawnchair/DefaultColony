@@ -1,0 +1,6 @@
+<mod displayName="Default Colonies" unique="DefaultColonies" description="This mod adds a tool that fills in colonies with buildings in the Space Stage" installerSystemVersion="1.0.1.2" hasCustomInstaller="false" dllsBuild="2.5.298">
+<prerequisite game="GalacticAdventures">Full_Colony.package</prerequisite>
+<prerequisite game="GalacticAdventures">DefaultColony.dll</prerequisite>
+<remove game="GalacticAdventures">DefaultColony.dll</remove>
+<remove game="GalacticAdventures">Full_Colony.package</remove>
+</mod>
