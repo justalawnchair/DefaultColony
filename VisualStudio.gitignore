@@ -399,3 +399,9 @@ FodyWeavers.xsd
 
 DefaultColony/Debug/*
 DefaultColony/Release/*
+
+.vs/*
+DefaultColony.sln
+Dummy File.txt
+Github Release/*
+Installer.exe
