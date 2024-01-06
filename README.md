@@ -11,6 +11,11 @@ T3 - 11 buildings (1 Entertainment, 4 Industry, 6 Homes, 8 Turrets)
 
 Its cost is 300,000 Sporebucks and is available at most alien races. 
 
+## INSTALLATION:
+
+Install the DefaultColony.sporemod file using the Spore ModAPI Launcher Kit http://davoonline.com/sporemodder/rob55rod/ModAPI/Public/
+This is required to use the mod. 
+
 KNOWN ISSUES:
 
 - The buildings will not render properly until you leave the planet and return.
